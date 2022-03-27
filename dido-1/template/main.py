@@ -1,4 +1,3 @@
-import argparse
 import typing
 
 
@@ -7,9 +6,8 @@ def update_headings(diary_lines: typing.List[str]):
     return diary_lines
 
 
-def main():
+def main(file_path: str):
     # TODO:
-    #  read input
     #  open file
     #  update file contents
     #  overwrite file
@@ -17,5 +15,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # use argparse to parse commandline args
-    main()
+    main("TODO get filepath from command line")

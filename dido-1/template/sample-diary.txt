@@ -21,6 +21,7 @@ some more stuff in diary entry 2
 *** Today's entry
  :PROPERTIES:
  :CREATED:  [2022-03-22 Tue 14:44]
+ :OTHER_PROP: "some data blah blah"
  :END:
 
 another entry
