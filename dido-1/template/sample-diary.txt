@@ -1,0 +1,26 @@
+* Diary
+** 2021
+** 2022
+*** Today's entry
+ :PROPERTIES:
+ :CREATED:  [2022-03-20 Sun 16:56]
+ :END:
+
+Secret details!!
+
+*** Today's entry
+ :PROPERTIES:
+ :CREATED:  [2022-03-21 Mon 17:00]
+ :END:
+
+Secret details!!
+secret diary entry
+**** Subheading
+some more stuff in diary entry 2
+
+*** Today's entry
+ :PROPERTIES:
+ :CREATED:  [2022-03-22 Tue 14:44]
+ :END:
+
+another entry
